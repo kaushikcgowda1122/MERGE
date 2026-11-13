@@ -1,1 +1,2 @@
 print("today day 05 and we are here in class learning about merging")
+print('ort strategy')
