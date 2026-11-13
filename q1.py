@@ -1,1 +1,1 @@
-print("1.Fast forward ")
+print("1.ORT strategy")
