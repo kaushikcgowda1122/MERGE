@@ -1,2 +1,8 @@
+
 print("1.ORT strategy")
-print("today is yesterday")
+
+
+
+print("learning the resolving the conflicts")
+print("today is tuesday")
+
